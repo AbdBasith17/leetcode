@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/AbdBasith17/leetcode/tree/master/0137-single-number-ii) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/AbdBasith17/leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
