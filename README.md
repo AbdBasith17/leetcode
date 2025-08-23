@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AbdBasith17/leetcode/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/AbdBasith17/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/AbdBasith17/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AbdBasith17/leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbdBasith17/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/AbdBasith17/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AbdBasith17/leetcode/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AbdBasith17/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AbdBasith17/leetcode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
