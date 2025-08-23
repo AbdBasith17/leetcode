@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AbdBasith17/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AbdBasith17/leetcode/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/AbdBasith17/leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/AbdBasith17/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbdBasith17/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/AbdBasith17/leetcode/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/AbdBasith17/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AbdBasith17/leetcode/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AbdBasith17/leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AbdBasith17/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AbdBasith17/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
