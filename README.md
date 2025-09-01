@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/AbdBasith17/leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/AbdBasith17/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/AbdBasith17/leetcode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AbdBasith17/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/AbdBasith17/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AbdBasith17/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AbdBasith17/leetcode/tree/master/0342-power-of-four) |
 | [2556-convert-the-temperature](https://github.com/AbdBasith17/leetcode/tree/master/2556-convert-the-temperature) |
 ## Two Pointers
 |  |
@@ -74,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AbdBasith17/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AbdBasith17/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AbdBasith17/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AbdBasith17/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
