@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AbdBasith17/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AbdBasith17/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/AbdBasith17/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/AbdBasith17/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/AbdBasith17/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AbdBasith17/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/AbdBasith17/leetcode/tree/master/0412-fizz-buzz) |
@@ -112,9 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AbdBasith17/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AbdBasith17/leetcode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AbdBasith17/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AbdBasith17/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
