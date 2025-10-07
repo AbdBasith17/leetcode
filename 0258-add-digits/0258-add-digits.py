@@ -4,8 +4,8 @@ class Solution(object):
         :type num: int
         :rtype: int
         """
-        
-        total = sum(int(no) for no in str(num))
+        string = str(num)
+        total = sum(int(no) for no in string)
         if total < 10:
             return total 
         else:
