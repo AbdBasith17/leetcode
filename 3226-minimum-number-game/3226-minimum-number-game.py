@@ -6,12 +6,9 @@ class Solution(object):
         """
         nums.sort()  
         rev = []
-
         for i in range(0, len(nums) - 1, 2):
             alice = nums[i]
             bob = nums[i+1]
-        
             rev.append(bob)
             rev.append(alice)
-
         return rev
