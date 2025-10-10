@@ -6,7 +6,6 @@ class Solution(object):
         """
         g = []
         for i in sentences:
-            l = i.split()
-            g.append(len(l))
+            g.append(len(i.split()))
         g.sort()
         return (g[-1])
