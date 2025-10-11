@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AbdBasith17/leetcode/tree/master/0283-move-zeroes) |
 | [1293-three-consecutive-odds](https://github.com/AbdBasith17/leetcode/tree/master/1293-three-consecutive-odds) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AbdBasith17/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/AbdBasith17/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/AbdBasith17/leetcode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
