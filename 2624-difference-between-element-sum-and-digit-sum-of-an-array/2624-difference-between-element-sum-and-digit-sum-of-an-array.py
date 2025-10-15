@@ -5,8 +5,5 @@ class Solution(object):
         :rtype: int
         """
         esum = sum(nums)
-        dsum = 0
-        for i in nums:
-            for dig in str(i):
-                 dsum += int(dig)
+        dsum = sum(int(dig) for i in nums for dig in str(i))
         return abs(esum-dsum)         
