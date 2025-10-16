@@ -4,11 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: str
         """
-        if nums[0] + nums[1] <= nums[2] or nums[0] + nums[2] <= nums[1] or nums[1] + nums[2] <= nums[0]:
+        a =nums[0]
+        b = nums[1]
+        c = nums [2]
+        if a + b <= c or a + c <= b or b + c <= a:
             return "none"     
-        if nums[0] == nums[1] == nums[2]:
+        if a == b == c:
             return "equilateral"
-        elif nums[0] == nums[1] or nums[1] == nums[2] or nums[0] == nums[2]:
+        elif a ==b or b == c or a == c:
             return "isosceles"
         else:
              return "scalene"
