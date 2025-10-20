@@ -5,13 +5,13 @@ class Solution(object):
         :rtype: int
         """
         li = []
-        for i in range(len(operations)):
-            if operations[i] == "C":
-                li.remove(li[-1])
-            elif operations[i] == "D":
+        for i in operations:
+            if i == "C":
+                li.pop()
+            elif i == "D":
                 li.append(2*li[-1])
-            elif operations[i] == "+":   
+            elif i == "+":   
                  li.append(li[-1] +li[-2] )  
             else :
-                li.append(int(operations[i]))       
+                li.append(int(i))       
         return sum(li)          
