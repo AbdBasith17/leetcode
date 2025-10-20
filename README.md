@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AbdBasith17/leetcode/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdBasith17/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/AbdBasith17/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1791-richest-customer-wealth](https://github.com/AbdBasith17/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AbdBasith17/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AbdBasith17/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AbdBasith17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/AbdBasith17/leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
