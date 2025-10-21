@@ -4,8 +4,6 @@ class Solution(object):
         :type moves: str
         :rtype: bool
         """
-        if moves.count("U") == moves.count("D") and moves.count("L") == moves.count("R"):
-            return True
-        else:
-            return False     
+        return moves.count("U") == moves.count("D") and moves.count("L") == moves.count("R")
+           
         
