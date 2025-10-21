@@ -4,14 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        ssum = 0
-        dsum = 0
+        ssum = sum(x for x  in nums if x < 10)
+        dsum = sum(x for x  in nums if x >10)
         tsum = sum(nums)
-        for i in nums:
-            if i < 10:
-                ssum += i
-            else:
-                dsum += i
         achoice1  = ssum
         bchoice1 = tsum-ssum
 
