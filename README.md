@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AbdBasith17/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AbdBasith17/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AbdBasith17/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/AbdBasith17/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AbdBasith17/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdBasith17/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdBasith17/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AbdBasith17/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AbdBasith17/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AbdBasith17/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AbdBasith17/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdBasith17/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbdBasith17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AbdBasith17/leetcode/tree/master/0389-find-the-difference) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AbdBasith17/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AbdBasith17/leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/AbdBasith17/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/AbdBasith17/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AbdBasith17/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AbdBasith17/leetcode/tree/master/0389-find-the-difference) |
 ## String
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AbdBasith17/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AbdBasith17/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AbdBasith17/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/AbdBasith17/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AbdBasith17/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AbdBasith17/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/AbdBasith17/leetcode/tree/master/0412-fizz-buzz) |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AbdBasith17/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AbdBasith17/leetcode/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AbdBasith17/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/AbdBasith17/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdBasith17/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -136,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AbdBasith17/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbdBasith17/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AbdBasith17/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AbdBasith17/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdBasith17/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AbdBasith17/leetcode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdBasith17/leetcode/tree/master/1019-squares-of-a-sorted-array) |
