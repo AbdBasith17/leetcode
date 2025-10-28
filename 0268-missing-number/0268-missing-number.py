@@ -4,6 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        s = set(nums)
         for i in range(len(nums)+1):
-            if i not in set(nums):
+            if i not in s:
                 return i
