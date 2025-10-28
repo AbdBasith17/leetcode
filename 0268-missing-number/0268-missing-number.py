@@ -5,5 +5,5 @@ class Solution(object):
         :rtype: int
         """
         for i in range(len(nums)+1):
-            if i not in nums:
+            if i not in set(nums):
                 return i
