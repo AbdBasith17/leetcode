@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AbdBasith17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AbdBasith17/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/AbdBasith17/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/AbdBasith17/leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/AbdBasith17/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/AbdBasith17/leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/AbdBasith17/leetcode/tree/master/0551-student-attendance-record-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AbdBasith17/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AbdBasith17/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/AbdBasith17/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/AbdBasith17/leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/AbdBasith17/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbdBasith17/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/AbdBasith17/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AbdBasith17/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/AbdBasith17/leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/AbdBasith17/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/AbdBasith17/leetcode/tree/master/0682-baseball-game) |
 | [3226-minimum-number-game](https://github.com/AbdBasith17/leetcode/tree/master/3226-minimum-number-game) |
