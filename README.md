@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AbdBasith17/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/AbdBasith17/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/AbdBasith17/leetcode/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/AbdBasith17/leetcode/tree/master/0874-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/AbdBasith17/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AbdBasith17/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AbdBasith17/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/AbdBasith17/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AbdBasith17/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/AbdBasith17/leetcode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/AbdBasith17/leetcode/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdBasith17/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AbdBasith17/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String Matching
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AbdBasith17/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/AbdBasith17/leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/AbdBasith17/leetcode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/AbdBasith17/leetcode/tree/master/0874-backspace-string-compare) |
 | [3226-minimum-number-game](https://github.com/AbdBasith17/leetcode/tree/master/3226-minimum-number-game) |
 ## Sliding Window
 |  |
@@ -212,4 +215,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/AbdBasith17/leetcode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/AbdBasith17/leetcode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
