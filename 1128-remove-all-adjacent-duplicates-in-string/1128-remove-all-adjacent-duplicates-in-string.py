@@ -5,9 +5,9 @@ class Solution(object):
         :rtype: str
         """
         stack = []
-        for ch in s:
-            if stack and stack[-1] == ch:
+        for i in s:
+            if stack and stack[-1] == i:
                 stack.pop()  
             else:
-                stack.append(ch)
+                stack.append(i)
         return "".join(stack)
