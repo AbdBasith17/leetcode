@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/AbdBasith17/leetcode/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdBasith17/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/AbdBasith17/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1408-string-matching-in-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/AbdBasith17/leetcode/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/AbdBasith17/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/AbdBasith17/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AbdBasith17/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/AbdBasith17/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1408-string-matching-in-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/AbdBasith17/leetcode/tree/master/1651-shuffle-string) |
 | [1660-thousand-separator](https://github.com/AbdBasith17/leetcode/tree/master/1660-thousand-separator) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/AbdBasith17/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbdBasith17/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/AbdBasith17/leetcode/tree/master/0812-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1408-string-matching-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
