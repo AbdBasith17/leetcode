@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/AbdBasith17/leetcode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AbdBasith17/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AbdBasith17/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2418-sort-the-people](https://github.com/AbdBasith17/leetcode/tree/master/2418-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AbdBasith17/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/AbdBasith17/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/AbdBasith17/leetcode/tree/master/3194-find-words-containing-character) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AbdBasith17/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdBasith17/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AbdBasith17/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2418-sort-the-people](https://github.com/AbdBasith17/leetcode/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AbdBasith17/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AbdBasith17/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AbdBasith17/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2418-sort-the-people](https://github.com/AbdBasith17/leetcode/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/AbdBasith17/leetcode/tree/master/2490-circular-sentence) |
 | [3194-find-words-containing-character](https://github.com/AbdBasith17/leetcode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/AbdBasith17/leetcode/tree/master/3312-number-of-changing-keys) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AbdBasith17/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AbdBasith17/leetcode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdBasith17/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/AbdBasith17/leetcode/tree/master/2418-sort-the-people) |
 | [3226-minimum-number-game](https://github.com/AbdBasith17/leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/AbdBasith17/leetcode/tree/master/3321-type-of-triangle) |
 ## Counting
