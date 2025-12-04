@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AbdBasith17/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdBasith17/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/AbdBasith17/leetcode/tree/master/0682-baseball-game) |
+| [0819-most-common-word](https://github.com/AbdBasith17/leetcode/tree/master/0819-most-common-word) |
 | [0861-flipping-an-image](https://github.com/AbdBasith17/leetcode/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdBasith17/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/AbdBasith17/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AbdBasith17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AbdBasith17/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdBasith17/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0819-most-common-word](https://github.com/AbdBasith17/leetcode/tree/master/0819-most-common-word) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AbdBasith17/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/AbdBasith17/leetcode/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AbdBasith17/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/AbdBasith17/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/AbdBasith17/leetcode/tree/master/0812-rotate-string) |
+| [0819-most-common-word](https://github.com/AbdBasith17/leetcode/tree/master/0819-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/AbdBasith17/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AbdBasith17/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/AbdBasith17/leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AbdBasith17/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbdBasith17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/AbdBasith17/leetcode/tree/master/0819-most-common-word) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/AbdBasith17/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Recursion
 |  |
