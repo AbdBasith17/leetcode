@@ -9,10 +9,11 @@ class Solution(object):
         s = p.split()
         if banned == []:
             s = [w.lower() for w in s] 
-        elif len(banned )> 1:    
+        # elif len(banned )> 1:  
+        else:  
             s = [w.lower() for w in s if w.lower() not in banned]
-        else:
-            s = [ w.lower() for w in s if w.lower() != banned[0]]    
+        
+            # s = [ w.lower() for w in s if w.lower() != banned[0]]    
 
         count = [s.count(x) for x in s ]
         return s[count.index(max(count))]
