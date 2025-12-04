@@ -9,7 +9,7 @@ class Solution(object):
         s = p.split()
         if banned == []:
             s = [w.lower() for w in s] 
-        elif len(banned )> 1:    
+        elif len(banned)> 1:    
             s = [w.lower() for w in s if w.lower() not in banned]
         else:
             s = [ w.lower() for w in s if w.lower() != banned[0]]    
