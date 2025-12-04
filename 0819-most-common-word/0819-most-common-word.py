@@ -7,12 +7,8 @@ class Solution(object):
         """
         p = "".join([ch if ch.isalpha() else " " for ch in paragraph])
         s = p.split()
-        if banned == []:
-            s = [w.lower() for w in s] 
-        elif len(banned)> 1:    
-            s = [w.lower() for w in s if w.lower() not in banned]
-        else:
-            s = [ w.lower() for w in s if w.lower() != banned[0]]    
+        s = [w.lower() for w in s]
+        s = [w for w in s if w not in banned]    
 
         count = [s.count(x) for x in s ]
         return s[count.index(max(count))]
