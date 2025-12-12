@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-distance-between-bus-stops](https://github.com/AbdBasith17/leetcode/tree/master/1184-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/AbdBasith17/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1408-string-matching-in-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1408-string-matching-in-an-array) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/AbdBasith17/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1651-shuffle-string](https://github.com/AbdBasith17/leetcode/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/AbdBasith17/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
