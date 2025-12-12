@@ -6,10 +6,8 @@ class Solution(object):
         :type queryTime: int
         :rtype: int
         """
-        count = 0
-        
-        for i in range(len(startTime)):
-            
-            if queryTime in range(startTime[i],endTime[i]+1):
-                count +=1
+        count = 0   
+        for s , e in zip(startTime,endTime):
+            if s <= queryTime <= e:
+                count += 1
         return count    
