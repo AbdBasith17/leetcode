@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/AbdBasith17/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1651-shuffle-string](https://github.com/AbdBasith17/leetcode/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/AbdBasith17/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/AbdBasith17/leetcode/tree/master/1816-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/AbdBasith17/leetcode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AbdBasith17/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/AbdBasith17/leetcode/tree/master/1651-shuffle-string) |
 | [1660-thousand-separator](https://github.com/AbdBasith17/leetcode/tree/master/1660-thousand-separator) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/AbdBasith17/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1816-truncate-sentence](https://github.com/AbdBasith17/leetcode/tree/master/1816-truncate-sentence) |
 | [1894-merge-strings-alternately](https://github.com/AbdBasith17/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/AbdBasith17/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AbdBasith17/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
