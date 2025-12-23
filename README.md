@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AbdBasith17/leetcode/tree/master/0704-binary-search) |
 | [0819-most-common-word](https://github.com/AbdBasith17/leetcode/tree/master/0819-most-common-word) |
 | [0861-flipping-an-image](https://github.com/AbdBasith17/leetcode/tree/master/0861-flipping-an-image) |
+| [0896-monotonic-array](https://github.com/AbdBasith17/leetcode/tree/master/0896-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdBasith17/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-distance-between-bus-stops](https://github.com/AbdBasith17/leetcode/tree/master/1184-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/AbdBasith17/leetcode/tree/master/1293-three-consecutive-odds) |
