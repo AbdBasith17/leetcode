@@ -9,7 +9,7 @@ class Solution(object):
 
         s = text.split(" ")
         for i in s:
-            if all (j not in i for j in list(brokenLetters)):
+            if not any (j  in i for j in list(brokenLetters)):
                 count += 1
         return count
         
