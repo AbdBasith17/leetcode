@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AbdBasith17/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AbdBasith17/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AbdBasith17/leetcode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/AbdBasith17/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/AbdBasith17/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AbdBasith17/leetcode/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AbdBasith17/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/AbdBasith17/leetcode/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/AbdBasith17/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
