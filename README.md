@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdBasith17/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0819-most-common-word](https://github.com/AbdBasith17/leetcode/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdBasith17/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1796-second-largest-digit-in-a-string](https://github.com/AbdBasith17/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/AbdBasith17/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AbdBasith17/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/AbdBasith17/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/AbdBasith17/leetcode/tree/master/1651-shuffle-string) |
 | [1660-thousand-separator](https://github.com/AbdBasith17/leetcode/tree/master/1660-thousand-separator) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/AbdBasith17/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1796-second-largest-digit-in-a-string](https://github.com/AbdBasith17/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/AbdBasith17/leetcode/tree/master/1816-truncate-sentence) |
 | [1894-merge-strings-alternately](https://github.com/AbdBasith17/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/AbdBasith17/leetcode/tree/master/1903-largest-odd-number-in-string) |
