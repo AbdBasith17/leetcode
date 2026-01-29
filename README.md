@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AbdBasith17/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AbdBasith17/leetcode/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/AbdBasith17/leetcode/tree/master/0861-flipping-an-image) |
+| [1486-xor-operation-in-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/AbdBasith17/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/AbdBasith17/leetcode/tree/master/1013-fibonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AbdBasith17/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbdBasith17/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AbdBasith17/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/AbdBasith17/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
