@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdBasith17/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-string-matching-in-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/AbdBasith17/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1629-slowest-key](https://github.com/AbdBasith17/leetcode/tree/master/1629-slowest-key) |
 | [1651-shuffle-string](https://github.com/AbdBasith17/leetcode/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/AbdBasith17/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/AbdBasith17/leetcode/tree/master/1816-truncate-sentence) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AbdBasith17/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/AbdBasith17/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1408-string-matching-in-an-array) |
+| [1629-slowest-key](https://github.com/AbdBasith17/leetcode/tree/master/1629-slowest-key) |
 | [1651-shuffle-string](https://github.com/AbdBasith17/leetcode/tree/master/1651-shuffle-string) |
 | [1660-thousand-separator](https://github.com/AbdBasith17/leetcode/tree/master/1660-thousand-separator) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/AbdBasith17/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
