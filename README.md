@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/AbdBasith17/leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/AbdBasith17/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/AbdBasith17/leetcode/tree/master/2427-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/AbdBasith17/leetcode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/AbdBasith17/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AbdBasith17/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AbdBasith17/leetcode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/AbdBasith17/leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/AbdBasith17/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/AbdBasith17/leetcode/tree/master/2427-number-of-common-factors) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/AbdBasith17/leetcode/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/AbdBasith17/leetcode/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/AbdBasith17/leetcode/tree/master/2843-count-symmetric-integers) |
 ## Counting Sort
 |  |
