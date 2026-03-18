@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/AbdBasith17/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbdBasith17/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/AbdBasith17/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/AbdBasith17/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/AbdBasith17/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/AbdBasith17/leetcode/tree/master/2427-number-of-common-factors) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/AbdBasith17/leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/AbdBasith17/leetcode/tree/master/2058-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/AbdBasith17/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/AbdBasith17/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/AbdBasith17/leetcode/tree/master/3226-minimum-number-game) |
 ## Sliding Window
 |  |
