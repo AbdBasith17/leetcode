@@ -5,9 +5,7 @@ class Solution(object):
         :rtype: bool
         """
         x = str(x)
-        rev = list(x)
-        rev.reverse()
-        rev = ''.join(rev)
-
-        return x == rev
+        if x == x[::-1]:
+            return True
+        return False
 
