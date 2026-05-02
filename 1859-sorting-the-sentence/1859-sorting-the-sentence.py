@@ -4,16 +4,8 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        s = s.split(' ')
-        li = []
-        for i in s:
-            res = i[:-1] , int(i[-1])
-            li.append(res)
+        w = s.split()
 
-        sortlist = sorted(li , key = lambda x:x[1] )
+        w.sort(key = lambda x : x[-1])
 
-        t = []
-        for i in sortlist:
-            t.append(i[0])
-
-        return ' '.join(t)
+        return ' '.join(x[:-1] for x in w)
