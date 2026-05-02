@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/AbdBasith17/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AbdBasith17/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/AbdBasith17/leetcode/tree/master/1816-truncate-sentence) |
+| [1859-sorting-the-sentence](https://github.com/AbdBasith17/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1894-merge-strings-alternately](https://github.com/AbdBasith17/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/AbdBasith17/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/AbdBasith17/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/AbdBasith17/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/AbdBasith17/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdBasith17/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1859-sorting-the-sentence](https://github.com/AbdBasith17/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AbdBasith17/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/AbdBasith17/leetcode/tree/master/2418-sort-the-people) |
 | [3226-minimum-number-game](https://github.com/AbdBasith17/leetcode/tree/master/3226-minimum-number-game) |
