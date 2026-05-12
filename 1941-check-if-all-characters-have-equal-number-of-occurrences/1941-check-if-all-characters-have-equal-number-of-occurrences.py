@@ -4,9 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        c = s.count(s[0])    
-        for i in s:
-            r = s.count(i)          
-            if r != c:
-                return False
-        return True 
+        li = []
+        for  i in s:
+            li.append(s.count(i))
+        return len(set(li)) == 1
