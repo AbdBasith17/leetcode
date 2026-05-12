@@ -4,10 +4,9 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        c = s.count(s[0])
-        for i in s :
-            if s.count(i) == c :
-                pass
-            else:
+        c = s.count(s[0])    
+        for i in s:
+            r = s.count(i)          
+            if r != c:
                 return False
-        return True     
+        return True 
