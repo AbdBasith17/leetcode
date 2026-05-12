@@ -7,6 +7,6 @@ class Solution(object):
         li = []
 
         for i in nums:
-            c = [ int(x) for x in str(i)]
-            li = li + c 
+            li += [int(x) for  x in str(i)]
+
         return li
