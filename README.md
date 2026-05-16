@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/AbdBasith17/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/AbdBasith17/leetcode/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/AbdBasith17/leetcode/tree/master/2490-circular-sentence) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/AbdBasith17/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/AbdBasith17/leetcode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/AbdBasith17/leetcode/tree/master/3312-number-of-changing-keys) |
 | [3340-check-balanced-string](https://github.com/AbdBasith17/leetcode/tree/master/3340-check-balanced-string) |
