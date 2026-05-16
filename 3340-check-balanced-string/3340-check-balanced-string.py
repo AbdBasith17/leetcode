@@ -4,14 +4,12 @@ class Solution(object):
         :type num: str
         :rtype: bool
         """
-        even = []
-        odd = []
+        even = 0
+        odd = 0
 
-        for i in range(len(num)):
-            if i % 2 == 0:
-                even.append(int(num[i]))
+        for i , v in enumerate(num):
+            if i %2 ==0:
+                even += int(v)
             else:
-                odd.append(int(num[i])) 
-        
-
-        return sum(even) == sum(odd)
+                odd += int(v)
+        return even == odd
