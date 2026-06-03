@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdBasith17/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-string-matching-in-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/AbdBasith17/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1480-running-sum-of-1d-array](https://github.com/AbdBasith17/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1629-slowest-key](https://github.com/AbdBasith17/leetcode/tree/master/1629-slowest-key) |
 | [1651-shuffle-string](https://github.com/AbdBasith17/leetcode/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/AbdBasith17/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -355,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/AbdBasith17/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdBasith17/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/AbdBasith17/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
