@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AbdBasith17/leetcode/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/AbdBasith17/leetcode/tree/master/0861-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/AbdBasith17/leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbdBasith17/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/AbdBasith17/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## String
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/AbdBasith17/leetcode/tree/master/1013-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AbdBasith17/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AbdBasith17/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbdBasith17/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbdBasith17/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/AbdBasith17/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AbdBasith17/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
