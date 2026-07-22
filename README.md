@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/AbdBasith17/leetcode/tree/master/2418-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbdBasith17/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AbdBasith17/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2678-number-of-senior-citizens](https://github.com/AbdBasith17/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/AbdBasith17/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/AbdBasith17/leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/AbdBasith17/leetcode/tree/master/3226-minimum-number-game) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/AbdBasith17/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/AbdBasith17/leetcode/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/AbdBasith17/leetcode/tree/master/2490-circular-sentence) |
+| [2678-number-of-senior-citizens](https://github.com/AbdBasith17/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AbdBasith17/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/AbdBasith17/leetcode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/AbdBasith17/leetcode/tree/master/3312-number-of-changing-keys) |
